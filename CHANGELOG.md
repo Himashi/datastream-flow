@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.2.0
+- High-performance ingestion benchmark profiler (`src/benchmark_profiler.py`) to measure processing throughput and execution latency.
+
 ## 1.1.0
 - Relational database query optimization utilities and automated CI validation workflows.
 
